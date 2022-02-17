@@ -99,7 +99,7 @@ document
  </svg></span> please enter number value to Income input!!`;
     }
 
-    // }
+   
 
     if (isNaN(foodInputValue)) {
       foodError.innerHTML = ` <span> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-exclamation-triangle-fill" viewBox="0 0 16 16">
